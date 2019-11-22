@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React_Context_API/static/css/main.36497136.chunk.css",
-    "main.js": "/React_Context_API/static/js/main.960896db.chunk.js",
-    "main.js.map": "/React_Context_API/static/js/main.960896db.chunk.js.map",
-    "runtime-main.js": "/React_Context_API/static/js/runtime-main.8db718ca.js",
-    "runtime-main.js.map": "/React_Context_API/static/js/runtime-main.8db718ca.js.map",
-    "static/js/2.15ae36b9.chunk.js": "/React_Context_API/static/js/2.15ae36b9.chunk.js",
-    "static/js/2.15ae36b9.chunk.js.map": "/React_Context_API/static/js/2.15ae36b9.chunk.js.map",
-    "index.html": "/React_Context_API/index.html",
-    "precache-manifest.cc77c9c60e08b792c3528bb63abfe08e.js": "/React_Context_API/precache-manifest.cc77c9c60e08b792c3528bb63abfe08e.js",
-    "service-worker.js": "/React_Context_API/service-worker.js",
-    "static/css/main.36497136.chunk.css.map": "/React_Context_API/static/css/main.36497136.chunk.css.map"
+    "main.css": "/react-musix-api/static/css/main.36497136.chunk.css",
+    "main.js": "/react-musix-api/static/js/main.8733787d.chunk.js",
+    "main.js.map": "/react-musix-api/static/js/main.8733787d.chunk.js.map",
+    "runtime-main.js": "/react-musix-api/static/js/runtime-main.2302ea6c.js",
+    "runtime-main.js.map": "/react-musix-api/static/js/runtime-main.2302ea6c.js.map",
+    "static/js/2.15ae36b9.chunk.js": "/react-musix-api/static/js/2.15ae36b9.chunk.js",
+    "static/js/2.15ae36b9.chunk.js.map": "/react-musix-api/static/js/2.15ae36b9.chunk.js.map",
+    "index.html": "/react-musix-api/index.html",
+    "precache-manifest.92fdfd43ee20978536717bda7e2bd9ca.js": "/react-musix-api/precache-manifest.92fdfd43ee20978536717bda7e2bd9ca.js",
+    "service-worker.js": "/react-musix-api/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/react-musix-api/static/css/main.36497136.chunk.css.map"
   }
 }
