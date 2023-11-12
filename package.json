@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://abv-solutions.github.io/",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.1.0",
